@@ -213,6 +213,11 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 ## 📽️ Generative AI Video
 
+* **[ViralWave Studio](https://viralwavestudio.com)** - AI-powered text-to-video generation using Sora 2. Create stunning 1080p videos (10s or 15s) from simple text prompts and post directly to all social media platforms. Competitive pricing at $0.34 for 10s videos.
+* **[ViralWave Studio Sora API](https://viralwavestudio.com/sora-api)** - Sora 2 video generation API offering **70% off** compared to OpenAI direct pricing. Generate high-quality videos programmatically with significant cost savings.
+
+  ![ViralWave Studio Sora API](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1763695852839-Screenshot%202025-11-20%20223030.png?alt=media&token=70fbb9a0-c359-4598-88af-3330e83cfe3e)
+
 * **[Runway ML](https://runwayml.com/)** - AI-powered video editing and generation
 * **[Synthesia](https://www.synthesia.io/)** - AI video generation platform
 * **[D-ID](https://www.d-id.com/)** - AI-powered video creation
