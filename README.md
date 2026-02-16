@@ -281,6 +281,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[MarketMuse](https://www.marketmuse.com/)** - AI content strategy platform
 * **[Persado](https://www.persado.com/)** - AI-powered marketing language
 * **[Phrasee](https://phrasee.co/)** - AI-powered subject line optimization
+* **[ZeroGTM](https://www.gtm-zero.com/)** - Open-source AI SDR agent for automated outbound sales prospecting and outreach
 
 ## 📞 AI Phone Call Agents
 
