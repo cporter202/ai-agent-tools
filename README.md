@@ -362,6 +362,8 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Robert Miles AI Safety](https://www.youtube.com/c/RobertMilesAI)** - YouTube channel about AI safety
 * **[AI Alignment Forum](https://www.alignmentforum.org/)** - Discussion forum for AI alignment research
 
+* **[Asqav](https://github.com/jagmarques/asqav-sdk)** - AI agent governance with audit trails, policy enforcement, and quantum-safe signatures
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
