@@ -201,6 +201,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[CodeT5](https://github.com/salesforce/CodeT5)** - Code understanding and generation model
 * **[WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)** - Code generation model
 * **[Continue](https://continue.dev/)** - Open-source autopilot for VS Code
+* **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local TUI for reviewing AI coding agent session cost, tokens, latency, failures, and health
 
 ## 🖼️ Generative AI Images
 
