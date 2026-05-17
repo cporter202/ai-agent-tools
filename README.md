@@ -305,6 +305,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 ### Research & Analysis
 
+* **[AI for Database](https://aifordatabase.com/)** - Connect to any database and query it in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows.
 * **[Elicit](https://elicit.org/)** - AI research assistant
 * **[Consensus](https://consensus.app/)** - AI-powered research tool
 * **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search engine
