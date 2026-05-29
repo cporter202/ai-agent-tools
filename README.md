@@ -225,6 +225,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Adobe Photoshop AI](https://www.adobe.com/products/photoshop.html)** - AI-powered photo editing
 * **[Canva AI](https://www.canva.com/)** - AI-powered design tool
 * **[Fotor](https://www.fotor.com/)** - AI photo editor and design maker
+* **[igly.ai](https://igly.ai)** - AI image editor for background removal, inpainting, upscaling, and generative fill
 * **[Photopea](https://www.photopea.com/)** - Free online image editor with AI features
 
 ## 📽️ Generative AI Video
