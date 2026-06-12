@@ -274,6 +274,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Jasper](https://www.jasper.ai/)** - AI content generator for marketing teams
 * **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool
 * **[Writesonic](https://writesonic.com/)** - AI writing assistant for content creation
+* **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 * **[Grammarly Business](https://www.grammarly.com/business)** - AI writing assistant for teams
 * **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool
 * **[Frase](https://www.frase.io/)** - AI content optimization tool
