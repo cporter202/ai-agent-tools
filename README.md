@@ -216,6 +216,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Artbreeder](https://www.artbreeder.com/)** - Collaborative, machine learning tool for creating images
 * **[NightCafe](https://nightcafe.studio/)** - AI art generator
 * **[Runway ML](https://runwayml.com/)** - Creative suite powered by AI
+* **[Seedream AI Studio](https://seedream4.video/)** - Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. Free tier available.
 
 ### Image Editing
 
