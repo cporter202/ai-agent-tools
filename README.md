@@ -326,6 +326,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Quizlet](https://quizlet.com/)** - AI-powered study tools
 * **[Duolingo](https://www.duolingo.com/)** - AI-powered language learning
 * **[Coursera](https://www.coursera.org/)** - AI-powered online courses
+* **[AICareerPivot](https://ai-career-pivot.com/)** - AI-powered career transition planner with personalized roadmaps and skill gap analysis
 
 ### Business & Finance
 
