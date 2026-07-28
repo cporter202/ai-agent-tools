@@ -216,6 +216,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Artbreeder](https://www.artbreeder.com/)** - Collaborative, machine learning tool for creating images
 * **[NightCafe](https://nightcafe.studio/)** - AI art generator
 * **[Runway ML](https://runwayml.com/)** - Creative suite powered by AI
+* **[GPT Image 2](https://gptimage2.asia/)** - Browser-based AI image generator and editor for marketing, ecommerce, social media, and branded content
 
 ### Image Editing
 
