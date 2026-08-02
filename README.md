@@ -302,6 +302,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Rewind](https://www.rewind.ai/)** - AI-powered search for everything you've seen
 * **[Superhuman](https://superhuman.com/)** - AI-powered email client
 * **[Motion](https://www.usemotion.com/)** - AI calendar and scheduling
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ### Research & Analysis
 
