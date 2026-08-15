@@ -310,6 +310,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered search engine
 * **[ChatPDF](https://www.chatpdf.com/)** - Chat with any PDF
 * **[Humata](https://www.humata.ai/)** - AI research assistant for documents
+* **[IdeaHunter](https://ideahunter.today)** - AI startup idea research and validation for founders
 * **[Semantic Scholar](https://www.semanticscholar.org/)** - AI-powered research tool
 
 ### Design & Creative
