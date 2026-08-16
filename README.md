@@ -241,6 +241,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)** - Open-source video generation model
 * **[Kaiber](https://kaiber.ai/)** - AI video generator
 * **[Pictory](https://pictory.ai/)** - AI video generator from text
+* **[videos.social](https://videos.social/?utm_source=ai-agent-tools&utm_medium=directory&utm_campaign=listing-wave-d)** - Editable faceless videos from blogs, PDFs, and prompts
 * **[InVideo AI](https://invideo.io/)** - AI-powered video creation
 * **[Luma AI](https://lumalabs.ai/)** - AI video generation and editing
 * **[HeyGen](https://www.heygen.com/)** - AI video generation platform
