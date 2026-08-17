@@ -296,6 +296,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 ### Productivity
 
 * **[Notion AI](https://www.notion.so/product/ai)** - AI-powered workspace
+* **[Orkas](https://github.com/Orkas-AI/Orkas)** - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 * **[Otter.ai](https://otter.ai/)** - AI meeting assistant
 * **[Fireflies.ai](https://fireflies.ai/)** - AI meeting transcription
 * **[Mem](https://mem.ai/)** - AI-powered note-taking
