@@ -162,6 +162,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Bing Chat](https://www.bing.com/chat)** - A conversational AI language model powered by Microsoft Bing.
 * **[Gemini](https://gemini.google.com/)** - An experimental AI chatbot by Google, powered by the LaMDA model.
 * **[Character.AI](https://character.ai/)** - Character.AI lets you create characters and chat to them.
+* **[WSUP AI](https://wsupai.app/)** - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 * **[ChatPDF](https://www.chatpdf.com/)** - Chat with any PDF.
 * **[ChatSonic](https://writesonic.com/chat)** - An AI-powered assistant that enables text and image creation.
 * **[Jasper Chat](https://www.jasper.ai/chat)** - AI chatbot for content creation
