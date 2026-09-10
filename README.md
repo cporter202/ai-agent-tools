@@ -172,6 +172,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 ### Writing Assistants
 
 * **[Grammarly](https://www.grammarly.com/)** - AI-powered writing assistant
+* **[ResumeAI](https://withresumeai.com/)** - Free ATS checker and AI resume builder (3/day anonymous, 10/day free account); State of ATS 2026
 * **[Jasper](https://www.jasper.ai/)** - AI content generator for marketing teams
 * **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool
 * **[Writesonic](https://writesonic.com/)** - AI writing assistant for content creation
