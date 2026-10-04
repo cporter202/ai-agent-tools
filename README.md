@@ -191,6 +191,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 ## 👩‍💻 Code with AI
 
+* **[Agent QA](https://vostride.com/docs/agent-qa)** - YAML web, Android and iOS testing with natural-language steps via CLI, local dashboard or local MCP. Currently free under FSL-1.1-ALv2; configured model, browser and device services may charge separately.
 * **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that helps you write code faster
 * **[Codeium](https://codeium.com/)** - Free AI-powered code completion
 * **[Tabnine](https://www.tabnine.com/)** - AI code completion that works in your IDE
