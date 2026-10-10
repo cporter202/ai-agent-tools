@@ -181,6 +181,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[ProWritingAid](https://prowritingaid.com/)** - Writing style and grammar checker
 * **[HyperWrite](https://www.hyperwrite.ai/)** - AI writing assistant
 * **[TextCortex](https://textcortex.com/)** - AI writing assistant for teams
+* **[WarmQuant](https://warmquant.com/)** - AI-assisted English drafting from notes, with writing angles, author and reader personas, and editable saved drafts.
 
 ### Summarization
 
