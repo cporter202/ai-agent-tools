@@ -1,16 +1,5 @@
 # AI Agent Tools
 
-<!-- AIWITHCHRIS-BANNER-START -->
-<p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
-</p>
-<!-- AIWITHCHRIS-BANNER-END -->
 
 > A curated list of Artificial Intelligence Top Tools
 
@@ -378,6 +367,20 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
+
+
 ## License
 
 This project is licensed under the MIT License.
@@ -405,3 +408,4 @@ Inspired by [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) and
 ---
 
 **Note**: This list is continuously updated. If you find any broken links or have suggestions for new tools, please open an issue or submit a PR.
+
