@@ -149,6 +149,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 * **[ViralWave Studio](https://viralwavestudio.com)** - Comprehensive AI-powered social media management platform featuring Sora 2 video generation, Brand Authority image creation (Nano Banana Pro), multi-platform posting (Facebook, Instagram, LinkedIn, Threads, Pinterest, TikTok, YouTube, WordPress), bulk content generation, blog creation, advanced analytics, and smart scheduling. Turn any prompt into viral content and automate your entire social media workflow.
 * **[There's an AI](https://theresanaiforthat.com/)** - List of best AI Tools
+* **[RespawnStack](https://respawnstack.com)** - Curated directory of AI tools for game developers
 * **[Notion AI](https://www.notion.so/product/ai)** - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
 * **[Murf AI](https://murf.ai/)** - Create voiceover with the most lifelike AI voices.
 * **[SaneBox](https://www.sanebox.com/)** - An email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
