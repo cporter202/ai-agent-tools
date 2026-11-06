@@ -153,6 +153,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[Murf AI](https://murf.ai/)** - Create voiceover with the most lifelike AI voices.
 * **[SaneBox](https://www.sanebox.com/)** - An email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
 * **[MeetGeek](https://meetgeek.ai/)** - An AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+* **[OneMira C1](https://onemira.com/products/c1)** - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and native [MCP server](https://github.com/onemira-space/onemira-mcp) for Claude, Cursor, and ChatGPT.
 
 ## 📝 AI Text
 
