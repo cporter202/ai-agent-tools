@@ -334,6 +334,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 * **[ChatPDF](https://www.chatpdf.com/)** - Chat with any PDF
 * **[Humata](https://www.humata.ai/)** - AI research assistant for documents
 * **[Semantic Scholar](https://www.semanticscholar.org/)** - AI-powered research tool
+* **[FlashData](https://flashdata.dev/mcp)** - Google Search and YouTube research data through APIs and MCP, including metadata and existing transcripts; API key and paid credits required.
 
 ### Design & Creative
 
