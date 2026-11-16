@@ -185,6 +185,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 ### Writing Assistants
 
+* **[HumanPen](https://humanpen.net/)** - Document-level AI writing & editing platform for DOCX/PPTX/TXT Humanize, DOCX word-budget Condense, 12-style Citation Format Correction, and 12-language Translate (100 signup credits, credit-based pricing)
 * **[Grammarly](https://www.grammarly.com/)** - AI-powered writing assistant
 * **[Jasper](https://www.jasper.ai/)** - AI content generator for marketing teams
 * **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool
