@@ -200,6 +200,7 @@ Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, 
 
 * **[TLDR This](https://tldrthis.com/)** - Summarize any text into concise content
 * **[Summarize.tech](https://www.summarize.tech/)** - AI-powered video and text summarization
+* **[GetYouTubeTranscript](https://getyoutubetranscript.com/)** - YouTube video transcripts with timestamps, AI summaries, an API and an MCP server
 * **[SMMRY](https://smmry.com/)** - Automatic text summarization tool
 * **[Resoomer](https://resoomer.com/)** - Text summarizer and analyzer
 
